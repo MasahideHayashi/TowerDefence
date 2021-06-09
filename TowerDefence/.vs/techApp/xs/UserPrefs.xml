@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A5D67531-A467-0656-814C-9387143F3013}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerManager.cs">
+    <Files>
+      <File FileName="Assets/EnemyManager.cs" Line="37" Column="1" />
+      <File FileName="Assets/PlayerManager.cs" Line="25" Column="44" />
+      <File FileName="Assets/GameManager.cs" Line="202" Column="42" />
+      <File FileName="Assets/OutZone.cs" Line="27" Column="1" />
+      <File FileName="Assets/Timer.cs" />
+      <File FileName="Assets/SceneTransitoinManager.cs" Line="10" Column="43" />
+      <File FileName="Assets/RankingManager.cs" Line="24" Column="37" />
+      <File FileName="Assets/NCMB/Script/NCMBConnection.cs" Line="135" Column="1" />
+      <File FileName="Assets/NCMB/Script/NCMBDebug.cs" Line="44" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4fff1835-f0a4-4f04-a780-79cb22c39d37" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
