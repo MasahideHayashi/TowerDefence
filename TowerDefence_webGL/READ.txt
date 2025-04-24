@@ -1,0 +1,8 @@
+このディレクトリで以下を実行
+python3 -m http.server 8000
+ブラウザでhttp://localhost:8000
+
+実行環境
+macOS 15.2
+Google Chrome
+Unity 2020.2.2f1
